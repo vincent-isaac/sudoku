@@ -8,7 +8,8 @@ Sudoku consists of a 9x9 grid, and the objective is to fill the grid with digits
 
 ## Sudoku puzzle:
 
-![sudoku](https://user-images.githubusercontent.com/75234588/173184219-477610c3-c0b8-408d-b67c-9e1b030fa20e.jpg)
+![sudoku](https://user-images.githubusercontent.com/75234588/173184334-8ca9ed22-748a-41e2-acaf-75b591627378.jpg)
+
 
 
 
