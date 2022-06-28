@@ -1,4 +1,6 @@
-# Sudoku
+## EX NO:06
+## DATE:07.06.2022
+# <p align="center">Sudoku
 
 ## Aim:
 To develop a code to solve a sudoku puzzle using contraint propagation
@@ -29,10 +31,9 @@ Calculate the time taken to solve the sudoku.
 
 ## Program:
 ```
-/*
-Name: Vincent isaac jeyaraj J
-Reg. No: 212220230060
-*/
+Developed by: Vincent isaac jeyaraj J
+Register  No: 212220230060
+
 ```
 ```python
 
